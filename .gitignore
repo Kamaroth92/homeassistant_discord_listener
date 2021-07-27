@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+.tmp.json
+.env.secret
+docker-build.ps1
+docker-push.ps1
+run-docker.ps1
+
 # User-specific files
 *.rsuser
 *.suo
